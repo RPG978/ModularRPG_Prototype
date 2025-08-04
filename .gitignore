@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Unity cache and metadata
+UserSettings/
+MemoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.tmproj
+*.vcxproj
+*.pidb.meta
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains Rider
+.vscode/
+.idea/
+*.sln
+*.sln.meta
+
+# Crash and debug logs
+*.stacktrace
+*.log
+
+# Auto-generated files
+*.apk
+*.aab
+*.unitypackage
+
+# Hidden folders
+.git/
